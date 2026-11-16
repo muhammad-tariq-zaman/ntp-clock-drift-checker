@@ -1,0 +1,6 @@
+host,offset_ms,stratum
+ntp-01,12,2
+ws-01,87,3
+ws-02,342,3
+ws-03,-812,4
+srv-db01,45,2
